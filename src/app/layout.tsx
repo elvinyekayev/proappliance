@@ -77,7 +77,7 @@ export default function RootLayout({
               name: 'Pro Appliance Express',
               image: 'https://proapplianceexpress.com/logo.png',
               url: 'https://proapplianceexpress.com',
-              telephone: '+1-617-337-7045',
+              telephone: '+1-978-953-8998',
               address: {
                 '@type': 'PostalAddress',
                 streetAddress: '75 Wolcott St',
