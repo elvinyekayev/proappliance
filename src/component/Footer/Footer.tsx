@@ -32,7 +32,7 @@ export default function Footer() {
               <p className="item-content">
                 <span>Call us on:</span>
                 <a href="tel:+19789538998" className="item-tel">
-                  +1 (978) 953-8998
+                  +1 (617) 337-7045
                 </a>
               </p>
             </div>

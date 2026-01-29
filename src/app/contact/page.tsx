@@ -92,7 +92,7 @@ export default function Contact() {
                       <a href="tel:+19789538998" className="contact-item-link">
                         Call us
                       </a>
-                      <p className="contact-item-desc">+1 (978) 953-8998</p>
+                      <p className="contact-item-desc">+1 (617) 337-7045ß</p>
                     </div>
                   </div>
                 </div>
